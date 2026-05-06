@@ -4,8 +4,7 @@
     {
       "Departments": [
         { "Name": "Girl Kisser" },
-        { "Name": "STORE MANAGER" },
-        { "Name": "ADMINISTRATION" },
+        { "Name": "SECURITY" },
         { "Name": "DEVELOPER" }
       ],
       "Dev": true,
